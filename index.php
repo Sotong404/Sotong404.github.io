@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<title>
+    Minaveksi - Mitra Terbaik Anda
+</title>
+<head>
+<meta charset="UTF-8">
+<meta name="description"content="Minaveksi Adalah Perusahaan Di">
+<meta name="author"content="Minaveksi Indonesia">
+<link rel="icon" type="image/png" sizes="96x96" href="https://avatars.githubusercontent.com/u/42895375?v=4"/>
+<meta name="viewport"content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="index, follow">
+
+</head>
+<body>
+<center>
+<h1>MINAVEKSI INDONESIA</h1>
+<p>Lorem Ipsum Bubur Sumsum.</p>
+</center>
+</body>
+</html>
